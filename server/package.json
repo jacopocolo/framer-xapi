@@ -1,0 +1,16 @@
+{
+  "name": "xapi-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsxapi": "^4.2.0",
+    "websocket": "^1.0.28",
+    "ws": "^6.1.2"
+  }
+}
